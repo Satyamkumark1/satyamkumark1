@@ -30,9 +30,9 @@ Building creative solutions with **Java, Spring Boot, React, and AI-driven autom
 - **AI tools for productivity and automation**
 
 ### 📫 How to reach me
-- **Email**: satyam@example.com *(replace with your email)*  
-- **LinkedIn**: [linkedin.com/in/satyam-kumar](https://linkedin.com/in/satyam-kumar) *(add your real link)*  
-- **GitHub**: [github.com/Satyamkumark1](https://github.com/Satyamkumark1)
+- **Email**: satyam@example.com 
+- **LinkedIn**: [linkedin.com/in/satyam-kumar](https://linkedin.com/in/satyam-kumar)
+
 
 ---
 
@@ -44,8 +44,6 @@ Building creative solutions with **Java, Spring Boot, React, and AI-driven autom
 
 ---
 
-### ⚡ Fun fact
-When I’m not coding, I’m either planning automation strategies for **Quartz Visualz** or experimenting with creative AI tools.
 
 ---
 
