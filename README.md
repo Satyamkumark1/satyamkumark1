@@ -1,406 +1,268 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Hey,%20I'm%20Satyam%20%F0%9F%91%8B&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=I%20build%20AI%20products%20that%20actually%20work.&descAlignY=60&descSize=20&descColor=00ff87" width="100%"/>
+# Hi there 👋, I'm Satyam Kumar!
+<div align="center">
+
+🚀 **Developer | AI Enthusiast | 
+Building creative solutions with **Java, Spring Boot, React, and AI-driven automation**.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Satyam%20Kumar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Developer%20%C2%B7%20AI%20Engineer%20%C2%B7%20Hackathon%20Builder&descAlignY=55&descSize=16" width="100%"/>
+
+</div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=800&color=00FF87&center=true&vCenter=true&multiline=false&random=false&width=750&lines=2x+Hackathon+Winner+%F0%9F%8F%86+%7C+Quartz+Visuals+Founder;Shipped+VHEAL+AI+%E2%80%A2+AltScore+AI+%E2%80%A2+CricVision+AI;React+%7C+Spring+Boot+%7C+Python+FastAPI+%7C+Gemini;Building+Agentic+AI+that+solves+real+Indian+problems;BCA+Student+%40+MUIT+Noida+%E2%80%A2+Competing+May+10+%F0%9F%91%80)](https://git.io/typing-svg)
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/satyam-kumar)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satyamnagar26@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00ff87)](https://github.com/satyamkumar)
-[![Open To Work](https://img.shields.io/badge/🚀%20Open%20To-Internships%20%26%20Collabs-00ff87?style=for-the-badge)](mailto:satyamnagar26@gmail.com)
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=satyamkumar&style=for-the-badge&color=0f3460&label=👁️+PROFILE+VIEWS" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FF87&center=true&vCenter=true&width=600&lines=Building+AI+that+actually+works.;Full-stack+%7C+React+%7C+Spring+Boot+%7C+Gemini;Hackathon+winner+%F0%9F%8F%86+%C2%B7+Shipping+real+products.;Founder+%40+Quartz+Visuals)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<div align="center">
 
-<br/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/satyam-kumar)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satyamnagar26@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![GitHub followers](https://img.shields.io/github/followers/satyam?style=for-the-badge&color=00ff87&labelColor=0a0a0f&label=Followers)](https://github.com/satyam)
 
-<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=satyamkumar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d0d1a&title_color=00ff87&icon_color=00ff87&text_color=ffffff&border_radius=12"/>
+</div>
 
-### 🧬 The Identity File
+---
+
+## ⚡ Who Am I
 
 ```typescript
-const satyam: Developer = {
-  name:     "Satyam Kumar",
-  age:      19,
-  location: "Noida, India 🇮🇳",
-  
-  education: {
-    degree:  "BCA — Semester 4",
-    college: "MUIT Noida",
-    focus:   "Building > studying"
-  },
-
-  agency:   "Founder @ Quartz Visuals",
-  team:     ["Manuj Dubey", "Manik Verma", "Shivansh"],
-
-  stack: {
-    loves:    ["React", "FastAPI", "Gemini API"],
-    learning: ["LangGraph", "System Design"],
-    touched:  ["Solidity", "Hardhat", "Redis"]
-  },
-
-  wins: [
-    "🏆 MUIT Young Sharks 2026",
-    "🏆 HackDays 2026 @ Galgotias × MLH"
-  ],
-
-  currentMission: "Win GDG Cloud Noida APL on May 10 👀",
-  motto: "Stop overthinking. Just build."
+const satyam = {
+  name:        "Satyam Kumar",
+  role:        "BCA Student → AI Engineer in progress",
+  org:         "Founder @ Quartz Visuals",
+  location:    "Noida, India 🇮🇳",
+  stack:       ["React", "Spring Boot", "FastAPI", "Gemini API", "LangGraph"],
+  currently:   "Building agentic AI systems that solve real problems",
+  wins:        ["MUIT Young Sharks 2026 🥇", "HackDays 2026 🥇 (MLH + Coding Blocks)"],
+  ask_me:      "Java · Spring Boot · React · AI Agents · Hackathon Strategy",
+  philosophy:  "Ship fast. Learn faster. Build things that matter.",
 };
 ```
 
-<br clear="right"/>
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+### 🔭 I’m currently working on
+- Building **QuartzOS** – an AI assistant system for my creative agency.
+- Developing **AI automation tools** for video editing, lead generation, and content planning.
+- Intermediate-level **Java projects** like a Library Management System and Train Ticket Booking System.
+## 🏆 Projects I've Shipped
 
-## 🏆 Hackathon Career
+<table>
+<tr>
+<td width="50%">
+
+### 🏥 VHEAL AI
+**Smart Hospital Management System**
+
+AI-powered discharge automation + patient billing transparency. ML fraud detection engine. Won **2 hackathons**.
+
+`React` `Node.js` `FastAPI` `Gemini API` `SQLite` `Python`
+
+[![Stars](https://img.shields.io/badge/🥇_MUIT_Young_Sharks_2026-Winner-FFD700?style=flat-square)](#)
+[![Stars](https://img.shields.io/badge/🥇_HackDays_2026-Winner-FFD700?style=flat-square)](#)
+
+</td>
+<td width="50%">
+
+### 🤖 AltScore AI
+**Agentic Alternative Credit Scoring**
+
+### 🌱 I’m currently learning
+- **Spring Boot** and advanced backend architectures.  
+- **LangGraph** for building AI agents.  
+- **Generative AI** integration into real-world applications.
+Multi-agent credit scoring system using non-traditional data. Built at InOut Hacks 2026.
+
+### 👯 I’m looking to collaborate on
+- AI-powered automation tools.  
+- Innovative **React/Spring Boot** full-stack projects.  
+- Open-source tools for **social media automation** and **creative workflows**.
+`FastAPI` `Python` `Gemini API` `Multi-Agent` `LangGraph`
+
+### 🤔 I’m looking for help with
+- Optimizing **AI workflows** for creative agencies.  
+- Scaling **Java Spring applications** with microservices.  
+[![Stars](https://img.shields.io/badge/InOut_Hacks_2026-Submitted-00FF87?style=flat-square)](#)
+
+### 💬 Ask me about
+- **Java, Spring Boot, and REST API development**  
+- **React and full-stack project setups**  
+- **AI tools for productivity and automation**
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📫 How to reach me
+- **Email**: satyam@example.com 
+- **LinkedIn**: [linkedin.com/in/satyam-kumar](https://linkedin.com/in/satyam-kumar)
+### 🏏 CricVision AI
+**Cricket Match Analytics via Gemini Vision**
+
+Upload any cricket image or video → get shot type, ball delivery, field positions, speed estimate, and live AI commentary. Runs 100% in browser.
+
+`React` `Vite` `Gemini 2.0 Flash` `Vision AI` `Tailwind`
+
+[![Stars](https://img.shields.io/badge/GDG_BWAI_APL-Built-00FF87?style=flat-square)](#)
+
+</td>
+<td width="50%">
+
+### ⛓️ AgriChain
+**Blockchain Agricultural Supply Chain**
+
+Transparent farm-to-shelf tracking on Ethereum Sepolia testnet. Smart contracts with Hardhat + Infura.
+
+`Solidity` `Hardhat` `Infura` `React` `Node.js` `Web3`
+
+[![Stars](https://img.shields.io/badge/Ethereum-Sepolia_Testnet-6B46C1?style=flat-square)](#)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📋 FocusGrid
+**Eisenhower Matrix Task Manager**
+
+Productivity app with smart task prioritization. No CSS frameworks, no JPA — built from scratch.
+
+`React` `Vite` `Java Spring Boot` `SQLite` `JdbcTemplate`
+
+</td>
+<td width="50%">
+
+### 🎓 EduTest
+**Online Examination Platform**
+
+Full production-grade exam system with role-based access, live timer, auto-grading.
+
+`React` `Vite` `Spring Boot` `MySQL` `REST API`
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🛠️ Tech Stack
+- **Languages**: Java, JavaScript, Python  
+- **Frameworks**: Spring Boot, React, LangChain, LangGraph  
+- **Databases**: MySQL, Redis  
+- **Tools**: Git, Docker, Postman, VS Code, IntelliJ IDEA  
+## 🛠️ Tech Stack
 
 <div align="center">
 
-> *"Every hackathon is a chance to prove that students can build what companies take years to ship."*
+**Languages**
 
-</div>
-
-<br/>
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════════════════════════╗
-║                        SATYAM'S HACKATHON SCOREBOARD                           ║
-╠══════════════╦═════════════════════╦════════════════╦══════════════════════════╣
-║    EVENT     ║       PROJECT       ║    RESULT      ║         STACK            ║
-╠══════════════╬═════════════════════╬════════════════╬══════════════════════════╣
-║ MUIT Young   ║                     ║                ║ React · FastAPI          ║
-║ Sharks 2026  ║    VHEAL AI 🏥      ║  🥇 WINNER     ║ Gemini · SQLite          ║
-╠══════════════╬═════════════════════╬════════════════╬══════════════════════════╣
-║ HackDays     ║                     ║                ║ React · Node.js          ║
-║ 2026 × MLH   ║    VHEAL AI 🏥      ║  🥇 WINNER     ║ FastAPI · Gemini         ║
-╠══════════════╬═════════════════════╬════════════════╬══════════════════════════╣
-║ InOut Hacks  ║                     ║                ║ Python · FastAPI         ║
-║ 2026         ║   AltScore AI 🤖    ║  ✅ Submitted  ║ Gemini · Multi-Agent     ║
-╠══════════════╬═════════════════════╬════════════════╬══════════════════════════╣
-║ BWAI APL     ║                     ║                ║ React · Vite             ║
-║ GDG Delhi    ║  CricVision AI 🏏   ║  ✅ Submitted  ║ Gemini Vision            ║
-╠══════════════╬═════════════════════╬════════════════╬══════════════════════════╣
-║ APL GDG      ║                     ║                ║                          ║
-║ Noida        ║   ??? 👀            ║  📅 MAY 10     ║ Classified 🔒            ║
-╚══════════════╩═════════════════════╩════════════════╩══════════════════════════╝
-```
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 🚀 Projects That Actually Shipped
-
-<br/>
-
-### 🏥 VHEAL AI &nbsp;·&nbsp; Smart Hospital Management System &nbsp;`[2x Winner]`
-
-<table>
-<tr>
-<td width="60%">
-
-**The problem:** Hospital discharge is a nightmare. Patients get surprise bills. Fraud is rampant. Staff wastes hours on paperwork.
-
-**What we built:** A dual-sided platform — one side automates discharge for hospital staff using Gemini AI, the other side gives patients full billing transparency and a fraud flag before they even sign.
-
-**The insight that won it:** Every judge was calling it a "fraud detection tool." We reframed it as "patient empowerment" — same tech, completely different story. That shift won us two back-to-back.
-
-</td>
-<td width="40%" align="center">
-
-```
-💻 Frontend   →  React + Node.js
-⚙️  Backend   →  Python FastAPI  
-🤖 AI Core    →  Google Gemini API
-🔍 ML Engine  →  Custom fraud detector
-🗄️  Database  →  SQLite
-🏆 Won        →  2 hackathons
-```
-
-</td>
-</tr>
-</table>
-
----
-
-### 🤖 AltScore AI &nbsp;·&nbsp; Agentic Credit Scoring System
-
-<table>
-<tr>
-<td width="60%">
-
-**The problem:** 400M+ Indians have no formal credit history. Banks can't lend to them. Fintech ignores them.
-
-**What we built:** A multi-agent AI pipeline that computes alternative credit scores from non-traditional signals — spending patterns, digital footprint, behavioral data. Each agent handles a signal category and passes structured output downstream.
-
-**The architecture:** True agentic workflow — not just one Gemini call, but a chain of specialized agents making decisions and handing off context.
-
-</td>
-<td width="40%" align="center">
-
-```
-🐍 Language   →  Python
-⚙️  Backend   →  FastAPI
-🤖 AI Core    →  Google Gemini
-🧠 Pattern    →  Multi-Agent Pipeline
-📡 Built at   →  InOut Hacks 2026
-               →  JSS Institutions
-```
-
-</td>
-</tr>
-</table>
-
----
-
-### 🏏 CricVision AI &nbsp;·&nbsp; Real-Time Cricket Analytics
-
-<table>
-<tr>
-<td width="60%">
-
-**The problem:** Cricket broadcasts show you runs and speed. They never tell you *what actually happened* — what shot, what delivery, where the field was.
-
-**What we built:** Upload any cricket image or video → Gemini Vision reads it → get shot type, ball delivery, field positions, an interactive SVG cricket field with shot direction, and live AI commentary.
-
-**The constraint:** 3-hour build sprint. IPL playing on the projector. Zero backend. Fully in-browser.
-
-</td>
-<td width="40%" align="center">
-
-```
-⚛️  Frontend  →  React + Vite
-🎨 Styling   →  Tailwind CSS
-🤖 AI Core   →  Gemini 2.0 Flash
-               →  Vision API
-🏟️ Built at  →  BWAI APL
-               →  GDG Cloud Delhi
-⏱️ Ship time →  3 hours
-```
-
-</td>
-</tr>
-</table>
-
----
-
-### 📋 FocusGrid &nbsp;·&nbsp; Eisenhower Matrix Task Manager
-
-<table>
-<tr>
-<td width="60%">
-
-A minimalist task prioritization app built on the Eisenhower Matrix. Opinionated by design — no CSS frameworks, no JPA, no code comments. Just clean engineering, raw JdbcTemplate, and a UI that gets out of your way.
-
-</td>
-<td width="40%" align="center">
-
-```
-⚛️  Frontend  →  React + Vite
-☕ Backend   →  Java Spring Boot
-🗄️  Database  →  SQLite (JdbcTemplate)
-📏 Rule      →  No frameworks. No bloat.
-```
-
-</td>
-</tr>
-</table>
-
----
-
-### ⛓️ AgriChain &nbsp;·&nbsp; Blockchain Supply Chain
-
-<table>
-<tr>
-<td width="60%">
-
-Transparent farm-to-shelf supply chain tracking on Ethereum. Every hand-off logged on-chain. Deployed to Sepolia testnet via Infura. React frontend reads live contract state in real time.
-
-</td>
-<td width="40%" align="center">
-
-```
-⛓️  Chain     →  Ethereum (Sepolia)
-🔨 Tooling   →  Hardhat + Infura
-📜 Contracts →  Solidity
-⚛️  Frontend  →  React + Node.js
-```
-
-</td>
-</tr>
-</table>
-
----
-
-### 📝 EduTest &nbsp;·&nbsp; Online Examination Platform
-
-<table>
-<tr>
-<td width="60%">
-
-Production-grade online examination system with timed tests, auto-grading, result analytics, and role-based access for students and admins.
-
-</td>
-<td width="40%" align="center">
-
-```
-☕ Backend   →  Java Spring Boot
-⚛️  Frontend  →  React + Vite
-🗄️  Database  →  MySQL
-```
-
-</td>
-</tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 🛠️ Full Tech Stack
-
-<div align="center">
-
-### ◈ Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 
-### ◈ Frontend
+**Frontend**
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-### ◈ Backend
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+**Backend**
 
-### ◈ AI / Agentic
-![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![LangChain](https://img.shields.io/badge/🦜%20LangChain-00A3E0?style=for-the-badge&logoColor=white)
-![LangGraph](https://img.shields.io/badge/🕸️%20LangGraph-FF6B35?style=for-the-badge&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-### ◈ Databases
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+**AI / Agents**
 
-### ◈ Blockchain
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
-![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logoColor=black)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6B35?style=for-the-badge&logo=python&logoColor=white)
 
-### ◈ Tools & DevOps
+**Databases & Tools**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
+**Blockchain**
+
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=satyamkumar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d0d1a&title_color=00ff87&icon_color=00ff87&text_color=ffffff&border_radius=12"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=satyamkumar&theme=tokyonight&hide_border=true&background=0d0d1a&ring=00ff87&fire=ffd700&currStreakLabel=00ff87&border_radius=12"/>
-
-<br/><br/>
-
-<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyamkumar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=00ff87&text_color=ffffff&border_radius=12"/>
-
-<br/><br/>
-
-[![Satyam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=satyamkumar&bg_color=0d0d1a&color=00ff87&line=00ff87&point=ffd700&area=true&hide_border=true&border_radius=12)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=satyam&show_icons=true&theme=tokyonight&bg_color=0d0d1a&title_color=00ff87&icon_color=00ff87&text_color=f0f0ff&border_color=1e1e35&hide_border=false&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyam&layout=compact&theme=tokyonight&bg_color=0d0d1a&title_color=00ff87&text_color=f0f0ff&border_color=1e1e35&hide_border=false"/>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 🐍 Contribution Snake
-
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/satyamkumar/satyamkumar/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/satyamkumar/satyamkumar/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/satyamkumar/satyamkumar/output/github-contribution-grid-snake.svg">
-</picture>
+[![GitHub Streak](https://streak-stats.demolab.com?user=satyam&theme=tokyonight&background=0d0d1a&border=1e1e35&ring=00ff87&fire=FFD700&currStreakLabel=00ff87&sideLabels=f0f0ff&dates=8888aa)](https://git.io/streak-stats)
 
 </div>
 
-> 💡 **To enable the snake:** Create a GitHub Actions workflow in `.github/workflows/snake.yml` that generates the snake SVG automatically. [See how →](https://github.com/Platane/snk)
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+## 🏅 Hackathon Record
 
-## 🏅 GitHub Trophies
+| Event | Project | Result |
+|-------|---------|--------|
+| 🏆 MUIT Young Sharks 2026 | VHEAL AI | **Winner** |
+| 🏆 HackDays 2026 — Galgotias (MLH + Coding Blocks) | VHEAL AI | **Winner** |
+| 🚀 InOut Hacks 2026 — JSS Institutions | AltScore AI | Submitted |
+| 🏏 GDG BWAI Agentic Premier League | CricVision AI | Submitted |
+
+---
+
+## 🌱 Currently Learning
+
+- **LangGraph** — building stateful multi-agent systems
+- **System Design** — scaling distributed architectures
+- **Advanced Spring Boot** — microservices, security, observability
+- **Gemini + Vertex AI** — production-grade AI pipelines
+
+---
+
+⭐ **Let's build something amazing together!**
+## 🤝 Let's Build Together
+
+I'm always open to:
+
+- 🤖 AI agent projects with real-world impact
+- ⚡ Hackathon collabs (I know how to ship fast)
+- 🌐 Full-stack React + Spring Boot projects
+- 🔓 Open source tools for automation & developer productivity
+
+**Reach out anytime:**
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=satyamkumar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![Email Me](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satyamnagar26@gmail.com)
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/satyam-kumar)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 🌱 What's Next
+---
 
 <div align="center">
 
-| Priority | What | Why |
-|----------|------|-----|
-| 🔥 **Now** | GDG Cloud Noida — APL May 10 | There's a trophy with my name on it |
-| 📚 **This Month** | LangGraph deep dive | Agents > prompts |
-| 🏗️ **This Quarter** | Quartz Visuals v2 | AI automation at agency scale |
-| 🎯 **This Year** | Land an AI/ML internship | Turn builds into career |
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
-</div>
+![Profile Views](https://komarev.com/ghpvc/?username=satyam&color=00ff87&style=for-the-badge&label=Profile+Views)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 🤝 Work With Me
-
-<div align="center">
-
-<br/>
-
-I'm a BCA student who ships production-level AI products at hackathons.
-If you need someone who moves fast, thinks clearly, and doesn't wait to be told what to do —
-
-<br/>
-
-**Let's build something.**
-
-<br/>
-
-[![Email](https://img.shields.io/badge/📧%20Email%20Me-satyamnagar26%40gmail.com-D14836?style=for-the-badge)](mailto:satyamnagar26@gmail.com)
-&nbsp;&nbsp;
-[![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-Connect-0077B5?style=for-the-badge)](https://linkedin.com/in/satyam-kumar)
-
-<br/><br/>
-
-*"Stop overthinking. Just build."*
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=140&section=footer&text=Satyam%20Kumar%20%C2%A9%202026&fontSize=20&fontColor=ffffff&animation=fadeIn&fontAlignY=65" width="100%"/>
+*"Ship fast. Learn faster. Build things that matter."*
 
 </div>
