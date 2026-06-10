@@ -91,7 +91,7 @@ Open to AI agent projects, hackathon collabs, full-stack React + Spring Boot bui
 <div align="center">
 
 [![Email Me](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satyamnagar26@gmail.com)
-[![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/satyam-kumar)
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/satyam-kumar-24241130b)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=satyam&color=00ff87&style=for-the-badge&label=Profile+Views)
 
